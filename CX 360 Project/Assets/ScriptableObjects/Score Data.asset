@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 630e6a4c1547edb48b83e387c8c6b8e8, type: 3}
+  m_Name: Score Data
+  m_EditorClassIdentifier: 
+  data: 'User6 - Correct: 1
+
+    User7 - Correct: 1
+
+    User8 - Correct: 0
+
+    User9
+    - Correct: 3
+
+    User10 - Correct: 2
+
+    User11 - Correct: 0
+
+    User12 -
+    Correct: 1
+
+    User13 - Correct: 1
+
+    User14 - Correct: 0
+
+    User15 - Correct:
+    0
+
+    User16 - Correct: 0
+
+    User17 - Correct: 1
+
+    User18 - Correct: 0
+
+'
+  fileName: StoredData/data.txt
+  userCount: 18
+  quizSO: {fileID: 11400000, guid: c38df8eb54d341342ab498452964e240, type: 2}
